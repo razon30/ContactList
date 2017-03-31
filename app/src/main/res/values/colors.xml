@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <!-- header color -->
+    <color name="colorHeaderbackground">#100044</color>
+
+    <!-- RecyclerView Background Color -->
+    <color name="colorRecyclerBackground">#DDDDDD</color>
+
+    <!-- RecyclerView Text Color -->
+    <color name="recyclerViewTextColor">#4d4c4c</color>
+
+    <!-- Footer Background And Header Text Color -->
+    <color name="colorFooterHeaderTextBackground">#FFFFFF</color>
+
+    <!-- More Text Color -->
+    <color name="colorMoreText">#3E9E78</color>
+    
+</resources>
